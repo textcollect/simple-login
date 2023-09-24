@@ -38,6 +38,6 @@ Sample users for this application:
 - Database engine used is MySQL
 - Run the file "usersTable.sql" first to setup the MySQL database.
 - To start the application, run the following command in the root of the application:
-```
+```java
 java -jar target/demo-0.0.1-SNAPSHOT.jar
 ```
